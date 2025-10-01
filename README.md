@@ -9,7 +9,7 @@
   </div>
   <br />
   <div>
-    <h2>About</h2>
+    <h2>关于我</h2>
     <a href="https://github.com/wilber-20130410">
       <img
         src="https://streak-stats.demolab.com?user=wilber-20130410&theme=tokyonight&hide_border=true&border_radius=5&locale=zh_Hans&card_width=700"
