@@ -5,7 +5,7 @@
     <h>“Lambdaexec”是同学<br></h>
     <h>擅长写Python程序<br></h>
     <h>Bilibili账号:TNTS-Xwb0410<br></h>
-    <h>版本发布与更新计划：2025.10.1 ～ 2025.10.8</h>
+    <h>版本发布与更新计划：～～～等待波次～～～</h>
   </div>
   <br />
   <div>
