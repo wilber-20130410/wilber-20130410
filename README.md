@@ -2,10 +2,10 @@
   <div>
     <h3>共学习，共进步；共开放，共成长；共筑建，共维护；共扬帆，共启航！</h3>
     <h>一个学生<br></h>
-    <h>“Lambdaexec”是同学<br></h>
+    <h>“Lambdaexec”是同学，“xzhBruce”是哥们<br></h>
     <h>擅长写Python程序<br></h>
-    <h>Bilibili账号:TNTS-Xwb0410<br></h>
-    <h>版本发布与更新计划：～～～等待波次～～～</h>
+    <h>Bilibili账号: # 我忘了<br></h>
+    <h>版本发布与更新计划：暂停更新</h>
   </div>
   <br />
   <div>
