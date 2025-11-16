@@ -5,7 +5,7 @@
     <h>“Lambdaexec”是同学，“xzhBruce”是哥们<br></h>
     <h>擅长写Python程序<br></h>
     <h>Bilibili账号: wilber-20130410<br></h>
-    <h>版本发布与更新计划：暂停更新</h>
+    <h>版本发布与更新计划：2026.1.1</h>
   </div>
   <br />
   <div>
