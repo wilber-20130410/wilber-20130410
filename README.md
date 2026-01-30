@@ -1,4 +1,3 @@
-![GitHub Card](https://githubcard.com/wilber-20130410.svg)
 <div align="center" class="font-family: MiSans">
   <div>
     <h3>共学习，共进步；共开放，共成长；共筑建，共维护；共扬帆，共启航！</h3>
@@ -30,3 +29,4 @@
   </div>
 </div>
 
+![GitHub Card](https://githubcard.com/wilber-20130410.svg)
